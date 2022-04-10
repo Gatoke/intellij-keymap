@@ -6,12 +6,12 @@ Changes MacOS Intellij IDEA shortcuts to be similar to Windows/Linux.
 ---
 
 ## 1. Pre required MacOS settings:
-####- Go to System Preferences -> Keyboard -> Keyboard (Tab) -> Modifier Keys
-####- Follow settings below:
+#### - Go to System Preferences -> Keyboard -> Keyboard (Tab) -> Modifier Keys
+#### - Follow settings below:
 ![mac-keyboard-settings](media/mac-keyboard-settings.png)
-####- Change Spotlight shortcut to Windows+Space:
+#### - Change Spotlight shortcut to Windows+Space:
 ![spotlight-shortcut](media/spotlight-shortcut.png)
-####- Disable Command-Shift-A shortcut:
+#### - Disable Command-Shift-A shortcut:
 ![command-shift-a-shortcut.png](media/command-shift-a-shortcut.png)
 
 ---
